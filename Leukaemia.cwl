@@ -264,8 +264,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: '[m]leukaemias---primary/output'
-  vpersonal-leukaemia---primary:
-    run: vpersonal-leukaemia---primary.cwl
+  personal-leukaemia---primary:
+    run: personal-leukaemia---primary.cwl
     out:
     - output
     in:
@@ -285,7 +285,7 @@ steps:
         source: inputModule26
       potentialCases:
         id: potentialCases
-        source: vpersonal-leukaemia---primary/output
+        source: personal-leukaemia---primary/output
   leukaemia-history---primary:
     run: leukaemia-history---primary.cwl
     out:

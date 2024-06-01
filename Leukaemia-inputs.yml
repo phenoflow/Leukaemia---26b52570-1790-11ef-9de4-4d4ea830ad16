@@ -75,7 +75,7 @@ inputModule24:
   path: python/leukaemia-guglielmo's---primary.py
 inputModule25:
   class: File
-  path: python/vpersonal-leukaemia---primary.py
+  path: python/personal-leukaemia---primary.py
 inputModule26:
   class: File
   path: python/monocytic-leukaemia---primary.py
